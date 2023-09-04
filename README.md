@@ -1,2 +1,2 @@
 # Title
-how to do it
+how to do it easily
