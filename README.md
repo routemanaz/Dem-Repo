@@ -4,4 +4,4 @@ how to do it easily
 
 ## subheader
 
-some tutorial
+some tutorial on git
